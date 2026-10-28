@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=171117&height=100&section=header&text=welcome%20to%20my%20profile&fontSize=22&fontColor=FFB6C1&animation=fadeIn" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:171117,50:442638,100:171117&height=170&section=header&text=welcome%20to%20my%20world&fontSize=22&fontColor=FFB6C1&stroke=DB7093&strokeWidth=1" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=17&duration=3500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=450&lines=привет,+я+koshkk+♡;графический+дизайнер+🎀;люблю+котиков+и+творчество+♡" />
+୨୧ ─────────── ♡ ─────────── ୨୧
 
 <br><br>
 
-♡ ───────────── ♡ ───────────── ♡
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=17&duration=3500&pause=1000&color=E7A0BD&center=true&vCenter=true&width=450&lines=привет,+я+koshkk;графический+дизайнер;люблю+котиков+и+творчество" />
+
+<br><br>
+
+🎀 🐈‍⬛ 🖤
+
+<br><br>
+
+୨୧ ─────────── ♡ ─────────── ୨୧
 
 <br><br>
 
@@ -31,7 +41,7 @@
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DB7093&height=2" width="65%"/>
 
@@ -41,7 +51,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ps,html,css,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ps,html,css,py&theme=dark"/>
 
 <br><br>
 
@@ -52,7 +62,7 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DB7093&height=2" width="65%"/>
+୨୧ ─────────── ♡ ─────────── ୨୧
 
 <br><br>
 
@@ -69,3 +79,86 @@
 🎨<br><b>рисование</b>
 </td>
 <td align="center" width="140">
+📺<br><b>сериалы</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+💤<br><b>спать</b>
+</td>
+<td align="center">
+🍓<br><b>кушать</b>
+</td>
+<td align="center">
+🎀<br><b>дизайн</b>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+୨୧ ─────────── ♡ ─────────── ୨୧
+
+<br><br>
+
+<h3>💗 ୨୧ моя философия ୨୧</h3>
+
+<br>
+
+<i>«Работа не волк — уйдёт куда-нибудь»</i>
+
+<br><br>
+
+♡ ♡ ♡
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DB7093&height=2" width="65%"/>
+
+<br><br>
+
+<h3>🎀 ୨୧ GitHub статистика ୨୧</h3>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=koshkk&show_icons=true&bg_color=171117&title_color=E7A0BD&text_color=FFB6C1&icon_color=DB7093&border_color=442638&locale=ru" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koshkk&layout=compact&bg_color=171117&title_color=E7A0BD&text_color=FFB6C1&border_color=442638&locale=ru" height="150"/>
+
+<br><br>
+
+୨୧ ─────────── ♡ ─────────── ୨୧
+
+<br><br>
+
+<h3>💌 ୨୧ мои контакты ୨୧</h3>
+
+<br>
+
+<a href="https://t.me/koshkk0">
+<img src="https://img.shields.io/badge/telegram-171117?style=for-the-badge&logo=telegram&logoColor=FFB6C1"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=koshkk&color=DB7093&style=flat-square&label=просмотры"/>
+
+<br><br>
+
+୨୧ ─────────── ♡ ─────────── ୨୧
+
+<br><br>
+
+<sub>made with love & cats ♡</sub>
+
+<br>
+
+🎀 🐈‍⬛ 🖤
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171117,50:442638,100:DB7093&height=100&section=footer" width="100%"/>
+
+</div>
